@@ -1,0 +1,91 @@
+body{
+	margin: 0;
+	background-color: #f1e8df;
+}
+nav{
+	text-align: right;
+	background-color: #f1e8df;
+}
+h1, a{
+	font-family: 'Open Sans' , sans-serif;
+}
+
+.Menu{
+	color: #f1e8df;
+}
+
+.Menu{
+	padding: 20px;
+}
+
+.Menu a{
+	text-decoration: none;
+}
+
+.Menu .sekmeler{
+	margin-left: 30px;
+	margin-right: 30px;
+	transition-property: color;
+	transition-duration: 0.7s;
+}
+
+.Menu .sekmeler:hover{
+	color: black;
+}
+
+.Menu #arma{
+	float: left;
+}
+
+}
+
+#otuzsekiz{
+	float: left;
+	width: 900px;
+	padding: 0 10px 10px 0;
+
+}
+
+.cont{
+	float: left;
+	padding: 0 10px 10px 0;
+
+}
+
+.contes{
+	float: right;
+	padding: 0 10px 10px 0;
+
+}
+.contest{
+	float: left;
+	padding: 0 10px 10px 0;
+}
+
+.contestor{
+	font-family: 'Open Sans' , sans-serif;
+	float: center;
+}
+
+.contestor .konum{
+	float: center;
+}
+
+.ortala, h1{
+  width:500px;
+  height: 250px;
+  display: table;
+  position: relative;
+  overflow: hidden;
+  text-align:center;
+  margin:0 auto;
+  font-family: 'Open Sans' , sans-serif;
+  float: all;
+
+}
+
+.bosluk{
+	padding: 20 20px 20px 20;
+	
+
+}
